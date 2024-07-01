@@ -18,3 +18,6 @@ int main(){
     binToDec(1011);
     return 0;
 }
+
+//Output:
+// 11
