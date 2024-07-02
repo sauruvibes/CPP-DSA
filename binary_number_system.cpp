@@ -41,3 +41,6 @@ int main(){
     decToBin(4);
     return 0;  
 }
+
+//Output:
+//100
