@@ -25,7 +25,6 @@ int main(){
 //Convert from Decimal to Binary
 #include<iostream>
 using namespace std;
-
 void decToBin(int decNum){
     int n = decNum;
     int pow=1; //10^0,10^1,10^2..
@@ -38,9 +37,7 @@ void decToBin(int decNum){
     }
     cout<<binNum<<endl;
 }
-
 int main(){
     decToBin(4);
-    return 0;
-    
+    return 0;  
 }
