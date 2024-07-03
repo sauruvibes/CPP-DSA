@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int N=15;
@@ -139,5 +139,5 @@ int main(){
     }
     return 0;
 }
-*/
+
 
