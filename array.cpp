@@ -30,3 +30,6 @@ int main(){
     cout<<"largest= "<<max<<endl;
     return 0;
 }
+
+//output: 
+//largest= 12
