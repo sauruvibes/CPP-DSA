@@ -10,3 +10,6 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+//Output : 
+//7 5 2 1 3 
