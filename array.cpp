@@ -11,7 +11,7 @@ int main(){
     return 0;
 }
 
-//Output : 
+//Output is : 
 //7 5 2 1 3 
 
 
