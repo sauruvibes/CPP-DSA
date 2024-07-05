@@ -1,5 +1,5 @@
 //Output & Input Array
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main(){
     int arr[5] = {7,5,2,1,3};
@@ -16,7 +16,7 @@ int main(){
 
 
 //Find largest of array
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main(){
     int arr[]={5,4,3,9,12};
