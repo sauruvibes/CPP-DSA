@@ -31,5 +31,5 @@ int main(){
     return 0;
 }
 
-//output: 
+//output is: 
 //largest= 12
