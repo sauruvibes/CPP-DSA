@@ -41,3 +41,18 @@ int main(){
 
 //Enter your number: 10829
 //10
+
+// Print the digits of a given number in reverse using while loop.
+#include<iostream>
+using namespace std;
+int main(){
+    int n = 10829;
+    while(n>0){
+        int lastDig = n%10;
+        cout<<lastDig;
+        n = n/10;
+    }
+    return 0;
+}
+//output:
+//92801
