@@ -44,6 +44,7 @@ int main(){
 //10
 
 // Print the digits of a given number in reverse using while loop.
+
 #include<iostream>
 using namespace std;
 int main(){
