@@ -57,3 +57,27 @@ int main(){
 
 //output:
 //92801
+
+//do-while loop
+//Write a program where user can keep entering numbers till they enter a multiple of 10.
+#include<iostream>
+using namespace std;
+int main(){
+    int n;
+    do{
+        cout<<"enter your number : ";
+        cin>>n;
+        
+        if(n % 10 == 0){
+            break;
+        }
+        cout<<n<<endl;
+    }while(true);
+    return 0;
+}
+
+//output: 
+/*enter your number : 15
+15
+enter your number : 80
+=== Code Execution Successful ===*/
