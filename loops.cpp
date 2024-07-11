@@ -81,3 +81,25 @@ int main(){
 15
 enter your number : 80
 === Code Execution Successful ===*/
+
+
+//Check if the number is prime or not:
+#include<iostream>
+using namespace std;
+int main(){
+    int n = 7;
+    bool isPrime = true;
+    for(int i = 2; i<= n -1; i++){
+        if(n % i == 0){
+            isPrime = false;
+            break;
+        }
+    }if(isPrime == true){
+        cout<<"its a prime number"<<endl;
+    }else{
+        cout<<"its not a prime number"<<endl;
+    }
+    return 0;
+}
+//OUTPUT: 
+//its a prime number
