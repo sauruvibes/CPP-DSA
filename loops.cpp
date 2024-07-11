@@ -1,5 +1,4 @@
 //Print the sum of digits of a number using while loop n = 10829 : 
-
 #include<iostream>
 using namespace std;
 int main(){
@@ -44,7 +43,6 @@ int main(){
 //10
 
 // Print the digits of a given number in reverse using while loop.
-
 #include<iostream>
 using namespace std;
 int main(){
