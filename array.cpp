@@ -11,7 +11,6 @@ int main(){
     cout<<endl;
     return 0;
 }
-
 //Output is : 
 //7 5 2 1 3 
 
@@ -32,6 +31,5 @@ int main(){
     cout<<"largest= "<<max<<endl;
     return 0;
 }
-
 //output is: 
 //largest= 12
