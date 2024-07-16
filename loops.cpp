@@ -1,5 +1,4 @@
 //Print the sum of digits of a number using while loop n = 10829 : 
-
 #include<iostream>
 using namespace std;
 int main(){
