@@ -125,7 +125,6 @@ B C
 D E F 
 G H I J 
 
-
 //FLOYD's TRIANGLE PATTERN:
 #include<iostream>
 using namespace std;
